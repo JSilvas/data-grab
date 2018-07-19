@@ -1,0 +1,19 @@
+{
+  "name": "data-grab",
+  "version": "1.0.0",
+  "description": "Displays two most popular jar file names, according to download count.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jar-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSilvas/data-grab.git"
+  },
+  "author": "Jay Silvas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSilvas/data-grab/issues"
+  },
+  "homepage": "https://github.com/JSilvas/data-grab#readme"
+}
